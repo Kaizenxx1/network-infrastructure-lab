@@ -11,6 +11,10 @@ seguridad y monitorización de redes.
 - Monitorizar servicios y dispositivos de red.
 - Documentar pruebas y resolución de problemas.
 
+  ## Topología de red
+
+![Topología de red](Diagramas/Homelab_Arquitectura_Profesional.drawio)
+
 ## Tecnologías
 - OPNsense
 - Cisco Switching
