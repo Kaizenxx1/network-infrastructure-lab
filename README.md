@@ -13,7 +13,7 @@ seguridad y monitorización de redes.
 
   ## Topología de red
 
-![Topología de red](Diagramas/Homelab_Arquitectura_Profesional.drawio.png)
+![Topología de red](Diagramas/Homelab_Arquitectura.drawio.png)
 
 ## Tecnologías
 - OPNsense
